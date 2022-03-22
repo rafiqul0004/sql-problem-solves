@@ -1,0 +1,1 @@
+SELECT customers.name FROM customers,legal_person WSELECT customers.name FROM customers,legal_person WHERE customers.id=legal_person.id_customers;HERE customers.id=legal_person.id_customers;
